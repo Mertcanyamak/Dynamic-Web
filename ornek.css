@@ -1,0 +1,12 @@
+p {
+ font-family: "arial",sans-serif;
+ font-size: 42px;
+ text-align: center;
+ text-shadow: 2px 2px yellow;
+}
+
+
+body {
+        background-image: url("/home/student/Desktop/koala.jpg");
+        opacity: 7.9;
+    }
